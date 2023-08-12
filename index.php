@@ -8,6 +8,9 @@ $p = [
     'name' => 'Product',
 ];
 
+///
+/// for ();
+
 ?>
 <td><img src="images/<?php echo $p['image'] ?>" width="100px" height="100px" /></td>
 <td><?php echo $p['name'] ?></td>
