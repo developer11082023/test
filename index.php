@@ -13,7 +13,7 @@ $p = [
 
 
 // echo $a;
-$z = $c + $b;
+//$z = $c + $b;
 
 ?>
 <td><img src="images/<?php echo $p['image'] ?>" width="100px" height="100px" /></td>
